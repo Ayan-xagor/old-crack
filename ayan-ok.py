@@ -405,7 +405,7 @@ logo = ("""
    \x1b[1;92m║➣WHATSAPP  : [ ERROR ]       
    \x1b[1;92m╚═════════════════════════════ """)
 
-           print("BECOME DREAM A PROGRAMMER PRAY FOR ME")
+      
 class Main:
 	def __init__(self):
 		self.id = []
