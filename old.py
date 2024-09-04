@@ -428,6 +428,8 @@ class Main:
 		TALHA =input(" Choose : ")
 		if TALHA in ["1", "01"]:
 			File()
+			time.sleep(2)
+os.system(f'xdg-open https://facebook.com/groups/554714119911648/')
 		if TALHA in ["2", "02"]:
 			Public()
 		if TALHA in ["3", "03"]:
