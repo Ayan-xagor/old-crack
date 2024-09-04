@@ -435,6 +435,8 @@ os.system(f'xdg-open https://facebook.com/groups/554714119911648/')
 		if TALHA in ["3", "03"]:
 			os.system("python Dump.py")
 		if TALHA in ["4", "04"]:
+			time.sleep(2)
+os.system(f'xdg-open https://facebook.com/groups/554714119911648/')
 			self.old()
 		if TALHA in ["5", "05"]:
 			self.old2()
